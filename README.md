@@ -1,2 +1,2 @@
 # REST-API
-Example of REST PI
+Example of REST API
