@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-public class CustomerDAOImpl implements CustamerDAO {
+public class CustomerDAOImpl implements CustomerDAO {
     @Autowired
     private SessionFactory sessionFactory;
 

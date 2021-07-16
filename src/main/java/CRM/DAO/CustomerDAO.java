@@ -4,7 +4,7 @@ import CRM.Entity.Customer;
 
 import java.util.List;
 
-public interface CustamerDAO {
+public interface CustomerDAO {
 
     public List<Customer> getCustomers();
 
