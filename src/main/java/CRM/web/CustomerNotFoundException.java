@@ -1,4 +1,4 @@
-package CRM.controller;
+package CRM.web;
 
 public class CustomerNotFoundException extends RuntimeException {
 

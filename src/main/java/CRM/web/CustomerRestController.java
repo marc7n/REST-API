@@ -1,4 +1,4 @@
-package CRM.controller;
+package CRM.web;
 
 import CRM.Entity.Customer;
 import CRM.service.CustomerService;
